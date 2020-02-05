@@ -1,0 +1,13 @@
+package com.learGit.myGit;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MyGitApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
