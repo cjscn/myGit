@@ -6,6 +6,6 @@ package com.learGit.myGit.dev;
  */
 public class DevBranch {
     public static void main(String[] args) {
-        System.out.println(" 创建分支并提交");
+        System.out.println(" 创建分支并提交1");
     }
 }
